@@ -15,7 +15,7 @@ const Testimonial = () => {
                         {/* Testimonial 1 */}
                         <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
                             <div className="h-full text-center">
-                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://instagram.fluh1-1.fna.fbcdn.net/v/t51.2885-19/351728214_994632598627843_6453351170462370159_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fluh1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0c0FURdnImAQ7kNvgHp6rC-&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AYASxQaFEChKhOWMlYMJ_qykJ1uL4mDQ4JdrsZmLQ51kMw&oe=669D69FE&_nc_sid=ee9879" />
+                                <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="/img/kes1.jpeg" />
                                 <p className="leading-relaxed">Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
                                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Keshav Jhamb</h2>
